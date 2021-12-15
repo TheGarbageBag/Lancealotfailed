@@ -1,3 +1,11 @@
 #chuck {
-width 40%
+  width: 50%;
+  font-family:"Bebas Neue", cursive;
+}
+#chucke {
+  width: 60%;
+  font-family:"Bebas Neue", cursive;
+  background-color:red;
+  height: 100px;
+width: auto;
 }
