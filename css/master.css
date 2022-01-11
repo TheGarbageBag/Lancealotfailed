@@ -9,3 +9,8 @@
   height: 100px;
 width: auto;
 }
+#alphabet {
+ .roman li a:hover{
+   color: white;
+ }
+}
